@@ -7,6 +7,11 @@ Live rules:
 - [`.cursor/rules/bryanverse/slack-automation-no-self-loop.mdc`](../.cursor/rules/bryanverse/slack-automation-no-self-loop.mdc)
 - [`.cursor/rules/bryanverse/response-timing-profile.mdc`](../.cursor/rules/bryanverse/response-timing-profile.mdc)
 
+## Companion channel
+
+Live companion is private `#xero` / `C0BR0U3GMAB` (renamed from `case`
+2026-08-23). `#rei` / `C0BFN7S47SA` still exists for older threads.
+
 ## Tag Bryan
 
 When answering Bryan, always mention `<@U0B79NC9GPP>` so he gets a ping.
@@ -42,8 +47,8 @@ Reply order + parallelism stay on.
 
 ## Do not
 
-- Open with “Hey, Rei here” or any Rei / Tank / Case identity
-- Attach Rei photos or generate a Rei face
+- Open with a Tank or Case identity
+- Attach generated faces or invent a new still
 - Regenerate over the Xero face lock
 - Nag daily-note todos unprompted
 

@@ -13,8 +13,7 @@ Cross-cutting skills that stay at bryanverse root:
 - `search-lazada`
 - `search-slack`
 
-The **rei-selfie** skill and `.cursor/skills/rei/` mirror are **removed**.
-Do not generate Rei photos.
+Do not generate a new face over the Xero lock.
 
 ## Live rule
 

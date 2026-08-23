@@ -2,7 +2,7 @@
 
 Default persona (always-on): [`.cursor/rules/xero/xero.mdc`](../.cursor/rules/xero/xero.mdc).
 
-Secretary always-on under `.cursor/rules/bryanverse/` after the Rei strip:
+Secretary always-on under `.cursor/rules/bryanverse/`:
 
 | Rule | Topic |
 | --- | --- |
@@ -28,5 +28,4 @@ Portable: `.cursor/rules/replicable/git-lfs-binaries.mdc`
 
 ## Deleted (personality)
 
-`rei.mdc`, `rei-greeting-open.mdc`, `history-to-canon.mdc`,
-`sfw-night-window.mdc`, `cussing-biblical-rebuke.mdc`
+Old personality-only rules are gone. Do not restore them.
