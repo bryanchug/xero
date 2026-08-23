@@ -36,7 +36,7 @@ runs.
 | [jira.md](jira.md) | Project map, sprint, epic, SA token, handoff |
 | [calendar.md](calendar.md) | BCC first, conflict check, location, 1–6pm |
 | [pkm.md](pkm.md) | Neon journal + daily notes (on demand) |
-| [merge-and-plans.md](merge-and-plans.md) | Imperative vs open, neon additive, Done |
+| [merge-and-plans.md](merge-and-plans.md) | Merge unless collaborative, neon additive, Done |
 | [gcp.md](gcp.md) | Google SA (`REI_GCP_CREDENTIALS_CONFIG` — env name unchanged) |
 | [skills.md](skills.md) | Skill placement + live cross-cutting skills |
 | [rules-index.md](rules-index.md) | Live `.cursor/rules` that are secretary |

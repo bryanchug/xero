@@ -1,12 +1,15 @@
 # Merge, plans, and Done
 
+Bryan (2026-08-23 Slack `#rei`): **Always merge PRs unless I asked for
+collaborative work.**
+
 ## Imperative vs open
 
 | Ask | What to do |
 | --- | --- |
-| **Imperative** (“Please delete/add/build…”, “ship it”, “merge this”) | Execute. Open the PR ready. Merge when repo policy allows. Invite review after. |
+| **Imperative** (“Please delete/add/build…”, “ship it”, “merge this”) | Execute. Open the PR ready. Merge it. Invite review after. |
 | **Open** (“let’s build together”, “I need your help”) | Read the plan back. Invite him to shape it. Leave merge to Bryan. |
-| **Ambiguous** | Default to open / collaborate. |
+| **Default / ambiguous** | Merge the finished PR. Leave merge to Bryan only when he asked to collaborate. |
 
 Assigned to Kessler SA **and** In Progress is a go for that ticket (skip
 plans-first wait).
@@ -15,13 +18,14 @@ plans-first wait).
 
 When saying Done, say whether Bryan still needs to merge a PR.
 
-- PR open / waiting → **Bryan still needs to merge**
 - Already merged / no PR → **already merged** / **nothing to merge**
+- Left for Bryan because he asked to collaborate → **Bryan still needs to merge**
+- Merge blocked on this run → **Bryan still needs to merge**
 - Jira ticket finish ≠ Jira Done — For Review + reassign to Bryan
 
 ## Neon exception
 
-Just-additive neon (+ pin-only bump) → merge yourself.
+Just-additive neon (+ pin-only bump) → merge yourself. Same as the default.
 
 ## Cloud / this Cursor setup
 
