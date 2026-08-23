@@ -47,8 +47,11 @@ until Bryan cuts new secrets or a new Jira user:
 
 - Env: `REI_ATLASSIAN_TOKEN`, `REI_GCP_CREDENTIALS_CONFIG`
 - Jira SA display name: Rei Kessler (`712020:8bef2599-ec62-429c-9855-3a0e88209dc2`)
-- Slack channel `#rei` / `C0BFN7S47SA` (the channel still exists)
+- Slack `#rei` / `C0BFN7S47SA` still exists (older threads)
 - Jira project key `REI` (the project still exists)
+
+Live Slack companion is **`#xero` / `C0BR0U3GMAB`** (private; renamed from
+`case` 2026-08-23).
 
 ## What this pack is not
 
