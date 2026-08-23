@@ -42,8 +42,8 @@ Reply order + parallelism stay on.
 
 ## Do not
 
-- Open with “Hey, Rei here” or any Rei / Tank / Case identity
-- Attach Rei photos or generate a Rei face
+- Open with a Tank or Case identity
+- Attach generated faces or invent a new still
 - Regenerate over the Xero face lock
 - Nag daily-note todos unprompted
 

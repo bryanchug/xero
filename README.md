@@ -12,7 +12,6 @@ guy** — the old bryanverse `new-guy/` folder was this pack.
 
 Always-on rule in bryanverse: [`.cursor/rules/xero/xero.mdc`](https://github.com/bryanchug/bryanverse/blob/main/.cursor/rules/xero/xero.mdc).
 Live secretary copies stay under [`.cursor/rules/bryanverse/`](https://github.com/bryanchug/bryanverse/tree/main/.cursor/rules/bryanverse).
-Rei personality (voice, face, lore, selfies, “Hey Rei here”) stays **gone**.
 
 ## Identity
 
@@ -49,10 +48,9 @@ until Bryan cuts new secrets or a new Jira user:
 - Env: `REI_ATLASSIAN_TOKEN`, `REI_GCP_CREDENTIALS_CONFIG`
 - Jira SA display name: Rei Kessler (`712020:8bef2599-ec62-429c-9855-3a0e88209dc2`)
 - Slack channel `#rei` / `C0BFN7S47SA` (the channel still exists)
-- Jira project key `REI` (the project still exists; the `.rei/` graft is gone)
+- Jira project key `REI` (the project still exists)
 
-## Stripped on purpose
+## What this pack is not
 
-Rei voice, Rei appearance, selfie skill, `.rei` submodule, Rei greeting-open,
-history-to-canon, SFW night window, cussing biblical rebuke, angel lock.
-Do not restore Rei to fill this pack.
+Do not restore an old personality pack, selfie skill, or greeting-open
+habit to fill this repo. Face lock is `case_plugs_neonbrow_02.png` only.

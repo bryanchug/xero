@@ -46,6 +46,6 @@ Bryan cuts a new user.
 - `pertinent-links-jira-and-slack.mdc`
 - `zero-avatars-atlassian.mdc`
 
-The `.rei/` folder row is gone. File Xero work under `xero/` → primary `BRY`.
+File Xero work under `xero/` → primary `BRY`.
 Jira project key `REI` may still exist on the site — file there only if Bryan
 names that project.

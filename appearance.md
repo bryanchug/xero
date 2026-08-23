@@ -39,6 +39,6 @@ When showing his face:
 ## Do not
 
 - Copy a celebrity or film-character likeness as a new lock
-- Remount `.rei/` or reuse Rei stills
+- Reuse a prior assistant still
 - Upload Atlassian / Jira avatars (zero-avatars house lock still holds)
 - Invent a second face because a clone did not LFS-smudge
